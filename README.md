@@ -1,2 +1,2 @@
-# aditi-personal-projects
-A collection of finished and unfinished projects that I have worked on
+# Presidential Speeches Analysis
+An NLP Exploration behind inuaugural speeches delivered by the 45 presidents of the U.S.A.
